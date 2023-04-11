@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "parkmiwnoo",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "/mac.png", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Developer",
     bio: "Record and share research findings.",
     email: "parkmiwnoo1991@gmail.com",
@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log-techblog`,
-      href: "https://github.com/DSDanielPark/morethan-log-techblog",
+      name: `deeptechlog`,
+      href: "https://github.com/DSDanielPark/deeptechlog",
     },
   ],
   // blog setting (required)
@@ -24,7 +24,7 @@ const CONFIG = {
   },
 
   // CONFIG configration (required)
-  link: "https://morethan-log.vercel.app",
+  link: "https://deeptechlog.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
@@ -53,7 +53,7 @@ const CONFIG = {
   utterances: {
     enable: true,
     config: {
-      repo: "parkmiwnoo/morethan-log",
+      repo: "DSDanielPark/deeptechlog",
       "issue-term": "og:title",
       label: "💬 Utterances",
     },
