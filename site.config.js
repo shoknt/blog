@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "TECH BLOG",
     description: "DEEP TECH BLOG",
-    theme: "light", // ['light', 'dark', 'auto']
+    theme: "dark", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
