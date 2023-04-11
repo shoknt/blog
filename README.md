@@ -1,3 +1,7 @@
+# DeepTechLog
+Personal technical blog https://deeptechlog.vercel.app/
+
+
 # forked repository from [`morethan-log`](https://github.com/morethanmin/morethan-log/)
 A forked repository for deploying after customizing, not the original repostoriy. Use the [MIT License](LICENSE) of original repository.
 
