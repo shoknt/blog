@@ -1,4 +1,4 @@
-# forked repository [`morethan-log`](https://github.com/morethanmin/morethan-log/)
+# forked repository from [`morethan-log`](https://github.com/morethanmin/morethan-log/)
 A forked repository for distribution after customizing, not the original repostoriy. Subject to the license of this repository.
 
 1. [Fork](https://github.com/morethanmin/morethan-log/fork) 
