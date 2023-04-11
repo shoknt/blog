@@ -7,6 +7,6 @@ A forked repository for deploying after customizing, not the original repostoriy
 3. Customize `site.config.js` 
 4. Deploy via [Vercel](https://vercel.com/dashboard), with the following environment variables.
    - `NOTION_PAGE_ID` (Required): The Notion page Id got from the Share to Web URL.
-   - `NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID` : For Google analytics Plugin.
-   - `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION` : For Google search console Plugin.
+   - `NEXT_PUBLIC_GOOGLE_MEASUREMENT_ID` : For Google analytics Plugin. [link](https://support.google.com/analytics/answer/6132368?sjid=6050729381764217741-AP)
+   - `NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION` : For Google search console Plugin. [link](https://search.google.com/search-console/not-verified?original_url=/search-console/)
 
