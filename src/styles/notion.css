@@ -30,7 +30,7 @@ svg.notion-page-icon {
 }
 
 svg + .notion-page-title-text {
-  @apply border-b-0;
+  @apply hidden;
 }
 
 .notion-bookmark {
