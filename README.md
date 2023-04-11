@@ -1,5 +1,5 @@
 # forked repository from [`morethan-log`](https://github.com/morethanmin/morethan-log/)
-A forked repository for distribution after customizing, not the original repostoriy. Subject to the license of this repository.
+A forked repository for deploying after customizing, not the original repostoriy. Subject to the license of this repository.
 
 1. [Fork](https://github.com/morethanmin/morethan-log/fork) 
 2. Duplicate [this Notion template](https://quasar-season-ed5.notion.site/12c38b5f459d4eb9a759f92fba6cea36?v=2e7962408e3842b2a1a801bf3546edda)
