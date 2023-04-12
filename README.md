@@ -1,3 +1,5 @@
+Development Status :: 5 - Production/Stable
+
 # DeepTechLog
 Personal technical blog https://deeptechlog.vercel.app/
 
