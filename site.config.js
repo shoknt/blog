@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "parkminwoo",
+    name: "shok_nt",
     image: "/michelangelos-david-bust-3d-wireframe.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "Developer",
+    role: "Founder/Blogger ",
     bio: "Record and share research findings.",
     email: "parkminwoo1991@gmail.com",
     linkedin: "dsdanielpark",
@@ -18,9 +18,9 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "TECH BLOG",
-    description: "DEEP TECH BLOG",
-    theme: "light", // ['light', 'dark', 'auto']
+    title: "GOS BLOG",
+    description: "welcome to gos",
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
